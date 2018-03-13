@@ -1,4 +1,4 @@
-## SSH Slackbot
+## SSH Slackbot [![Codacy Badge](https://api.codacy.com/project/badge/Grade/13886793576f49baa032df23bf8a36fb)](https://www.codacy.com/app/caroseuk/slackbot-ssh?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=caroseuk/slackbot-ssh&amp;utm_campaign=Badge_Grade)
 
 This is a simple slackbot to post successful SSH logins to a slack channel to help you keep track of server access. 
 
